@@ -1,7 +1,7 @@
 # about
 
 - 👋 Hi, I’m @berniepng
-- 👀 I’m interested in building mobile apps
-- 🌱 I’m currently learning bubble and flutter
-- 💞️ I’m looking to collaborate on health care and services related apps
-- 📫 Reach me on Twitter @berniepng
+- 👀 I’m interested in becoming an AI engineer to build solutions for businesses
+- 🌱 I’m currently learning everything there is to know about build AI agents
+- 💞️ I’m looking to collaborate on insect farming and food security
+- 📫 Reach me on linkedin [@berniepng](tab:https://linkedin.com/in/berniepng)
